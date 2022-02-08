@@ -1,7 +1,11 @@
 - 👋 Hi, I’m 
 ##  mohammadfarashipoor
-- ⚛  I’m junior developer 
-## REACT ...
+- ⚛  I’m junior developer Front end 
+## Skill...
+   React 
+   Html
+   Css
+   Wordpress 
 
 - 👨‍💻 Engineer Computer 
 <!---
