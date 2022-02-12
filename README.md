@@ -2,10 +2,11 @@
 ##  mohammadfarashipoor
 - ⚛  I’m junior developer Front end 
 ## Skill...
-   React 
-   Html
-   Css
-   Wordpress 
+   - Javascript 
+   - React 
+   - Html
+   - Css
+   - Wordpress 
 
 - 👨‍💻 Engineer Computer 
 <!---
