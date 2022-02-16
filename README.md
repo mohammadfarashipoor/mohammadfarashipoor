@@ -6,7 +6,7 @@
    - React 
    - Html
    - Css
-   - Wordpress 
+   - OOP programming
 
 ## 👨‍💻 Engineer Computer 
 <!---
