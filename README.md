@@ -3,15 +3,24 @@
 - ⚛  I’m junior developer Front end 
 ## Skill...
    - Javascript
-   - React 
+   - React
+   - Vue
    - Html
    - Css
-   - OOP programming
+   - Sass
+   - SQL Server
+   - Problem Solving
+   - Responsive Web
+   - BEM
+   - Git / Git Flow
+ 
 
-## 👨‍💻 Engineer Computer 
+## 👨‍💻 Computer Engineering
 
 
 ## 💪I've worked 
+  |Python |
+  |Redux |
   |Clay UI|
   |PrimeReact UI|
   |Bootstrap UI|
