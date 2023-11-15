@@ -1,26 +1,31 @@
 - 👋 Hi, I’m 
 ##  mohammadfarashipoor
-- ⚛  I’m junior developer Front end 
+- ⚛  I’m junior Front end developer
 ## Skill...
    - Javascript
    - React
+   - Redux 
    - Vue
+   - Pinia
    - Html
    - Css
    - Sass
    - SQL Server
-   - Problem Solving
    - Responsive Web
    - BEM
    - Git / Git Flow
- 
 
-## 👨‍💻 Computer Engineering
+     
+## Soft Skill
+ - Problem Solving
+ - Responsibility
+ - TeamWork
+
+## 👨‍💻 Computer Engineering (SoftWare)
 
 
 ## 💪I've worked 
   |Python |
-  |Redux |
   |Clay UI|
   |PrimeReact UI|
   |Bootstrap UI|
