@@ -1,4 +1,4 @@
-![header](https://github.com/user-attachments/assets/19fb3a2d-dfe5-42ef-ab4d-8c8c49783e68)
+![header](https://github.com/user-attachments/assets/e887edbd-0506-4bbc-a75d-d8a348cd0ca7)
 
 ##  About me
 - 👨🏻‍💻 I'm just a person who likes the latest technology and editing a bit of code.
@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![footer](https://github.com/user-attachments/assets/04708615-d887-480a-b91f-d5e80004f15d)
 
 
+![footer](https://github.com/user-attachments/assets/025ec487-78d4-4c20-ac4e-82aea75a2d29)
 
 
 
